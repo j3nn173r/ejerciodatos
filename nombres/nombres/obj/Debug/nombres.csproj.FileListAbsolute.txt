@@ -1,0 +1,10 @@
+C:\Users\HP-PC\Desktop\nombres\nombres\bin\Debug\nombres.exe.config
+C:\Users\HP-PC\Desktop\nombres\nombres\bin\Debug\nombres.exe
+C:\Users\HP-PC\Desktop\nombres\nombres\bin\Debug\nombres.pdb
+C:\Users\HP-PC\Desktop\nombres\nombres\obj\Debug\nombres.csprojAssemblyReference.cache
+C:\Users\HP-PC\Desktop\nombres\nombres\obj\Debug\nombres.Properties.Resources.resources
+C:\Users\HP-PC\Desktop\nombres\nombres\obj\Debug\nombres.csproj.GenerateResource.cache
+C:\Users\HP-PC\Desktop\nombres\nombres\obj\Debug\nombres.csproj.CoreCompileInputs.cache
+C:\Users\HP-PC\Desktop\nombres\nombres\obj\Debug\nombres.exe
+C:\Users\HP-PC\Desktop\nombres\nombres\obj\Debug\nombres.pdb
+C:\Users\HP-PC\Desktop\nombres\nombres\obj\Debug\nombres.name1resultado.resources
